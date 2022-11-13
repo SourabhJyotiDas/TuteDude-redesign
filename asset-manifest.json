@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TuteDude-redesign/static/css/main.6f463f87.css",
+    "main.js": "/TuteDude-redesign/static/js/main.258397c2.js",
+    "index.html": "/TuteDude-redesign/index.html",
+    "main.6f463f87.css.map": "/TuteDude-redesign/static/css/main.6f463f87.css.map",
+    "main.258397c2.js.map": "/TuteDude-redesign/static/js/main.258397c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f463f87.css",
+    "static/js/main.258397c2.js"
+  ]
+}
